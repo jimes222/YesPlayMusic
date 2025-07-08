@@ -128,7 +128,7 @@ module.exports = {
           ],
           publisherName: 'YesPlayMusic',
           icon: 'build/icons/icon.ico',
-          publish: ['github'],
+          // publish: ['github'],
         },
         linux: {
           target: [
